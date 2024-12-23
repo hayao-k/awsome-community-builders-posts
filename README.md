@@ -14,6 +14,7 @@ This is a curated list of blog posts related to the [AWS Community Builders Prog
 * [AWS Community Builder2年目を振り返る](https://zenn.dev/nnydtmg/articles/aws-community-builder-lookingback-2024) by hr0hr57
 * [AWS Community Builder 2年目の振り返り](https://zenn.dev/rubihiko/articles/7732b561a18420) by rubihiko
 * [AWS Community Builder になれた件、そして登壇とかめっちゃ怖いんだけどという人向けのポエム](https://qiita.com/kazzpapa3/items/eb3ab1efdab41ac0c328) by @kazzpapa3
+* [AWS Community Builders で貰った AWS クレジットをコミュニティに還元しようとした話](https://dev.classmethod.jp/articles/aws-cbs-credit-to-community-2024/) by べこみん
 
 ### 2023
 * [AWSのアウトプット頑張ってる方！Community Buildersに応募してみませんか？](https://qiita.com/minorun365/items/40f96ed36bf7fd684ec7) by みのるん
